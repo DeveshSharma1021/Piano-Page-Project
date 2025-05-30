@@ -42,3 +42,5 @@ Links UI actions to sound playback.
 Contains .mp3 tunes files named after notes:
 ;.mp3, a.mp3, d.mp3, etc.
 These are the actual note recordings that play when users interact with the keys.
+
+image: <a>(https://github.com/user-attachments/assets/417bf5ae-4751-4f65-86ae-da66f6c9bd2d)</a>
