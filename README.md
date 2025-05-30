@@ -43,6 +43,7 @@ Contains .mp3 tunes files named after notes:
 ;.mp3, a.mp3, d.mp3, etc.
 These are the actual note recordings that play when users interact with the keys.
 
-image: <a>(https://github.com/user-attachments/assets/417bf5ae-4751-4f65-86ae-da66f6c9bd2d)</a>
+<h1>Repository Structure</h1>
+  image: <a>(https://github.com/user-attachments/assets/417bf5ae-4751-4f65-86ae-da66f6c9bd2d)</a>
 
 ![Piano-page 2025-05-30 175723](https://github.com/user-attachments/assets/1cad4521-9761-4851-ac21-1315dec90467)
