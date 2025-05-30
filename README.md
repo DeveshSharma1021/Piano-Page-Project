@@ -4,9 +4,9 @@ This project is a simple piano -page project built using HTML, CSS, and JavaScri
 1. HTML (index.html)
 Defines the layout of the page:
 
-A title (<h1>Piano-Page</h1>)
+ (<h1>Piano-Page</h1>)
 
-A <div> container for piano keys.
+ <div> container for piano keys.
 
 Each key is a <div> with a data-note attribute (e.g. data-note="C").
 
